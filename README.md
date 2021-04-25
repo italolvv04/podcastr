@@ -1,5 +1,9 @@
-<div align="center">
-  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
-</div>
+# PODCASTR
 
-# podcastr
+## 🧪 Technologies
+
+This project was developed using the following technologies:
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
