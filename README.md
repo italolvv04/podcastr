@@ -1,6 +1,6 @@
 # PODCASTR
 
-## 📍 Technologies 📍
+## 📍 Tecnologias 📍
 
 O projeto foi desenvolvido usando as seguintes tecnologias:
 
@@ -12,10 +12,9 @@ O projeto foi desenvolvido usando as seguintes tecnologias:
 
 Clone o projeto
 
-`bash
+```bash
 $ git clone https://github.com/italolvv04/podcastr.git
-
-````
+```
 
 Siga o passo a passo
 
@@ -28,7 +27,7 @@ $ yarn server
 
 # Inicie o projeto
 $ yarn dev
-````
+```
 
 ## 📁 Projeto 📁
 
